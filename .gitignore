@@ -9,7 +9,6 @@ Icon
 *.suo
 *.user
 *.userosscache
-*.sln
 .docstates
 .vs/
 .vscode/
